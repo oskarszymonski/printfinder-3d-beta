@@ -1,0 +1,11 @@
+{
+  "name": "printfinder-3d",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.30.0"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^5.0.0"
+  }
+}
